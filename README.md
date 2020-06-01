@@ -32,3 +32,8 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 功能概述
+该项目用于实践并验证最新前端技术
+eg: ts
+实践1：
